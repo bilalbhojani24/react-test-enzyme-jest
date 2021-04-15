@@ -1,18 +1,18 @@
 header{
     display: block;
     margin: 0;
-    padding: 0 10px;
+    padding: 0 0px;
     background-color: black !important;
     
     .wrap{
-        position: relative;
+        // position: relative;
         display: block;
         margin: 0 auto;
 
         .logo{
             display: block;
             width: 250px;
-            position: absolute;
+            // position: absolute;
             left: 10px;
             top: 50%;
             -webkit-transform: translateY(-50%);
